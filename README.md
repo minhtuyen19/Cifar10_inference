@@ -10,3 +10,7 @@ Accuracy: ~93%, val_acc: ~75%
 ![image](https://user-images.githubusercontent.com/121759873/220586142-407c7295-26a4-4c89-ab9a-9116b3b54bf9.png)
 
 ## The graph present the curves line
+
+![image](https://user-images.githubusercontent.com/121759873/220680428-bb7dab8e-2136-4c85-acbe-8470ed0d9c82.png)
+
+The result of evaluating model: [1.3685797452926636, 0.8223000168800354]
