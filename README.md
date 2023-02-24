@@ -22,9 +22,12 @@ loss: 0.9814 - accuracy: 0.9349 - val_loss: 1.3686 - val_accuracy: 0.8223
 
 ## Results training 24/02/2023
 
-![image](https://user-images.githubusercontent.com/121759873/221100229-215a910e-d890-4aa3-93ac-ccbdc4e85a46.png)
+![image](https://user-images.githubusercontent.com/121759873/221100575-adbf1697-679c-4172-8939-905ab59354d2.png)
+
 The graph present the curves line
+
 ![image](https://user-images.githubusercontent.com/121759873/221100329-d87fa725-012a-444c-9d48-940558408591.png)
+
 The result of evaluating:
 [0.49401670694351196, 0.932699978351593]
 
